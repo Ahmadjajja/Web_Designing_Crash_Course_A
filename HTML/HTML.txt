@@ -1,0 +1,73 @@
+What terminologies used in web development?
+
+HTML stands for Hyper text markup language.
+CSS stands for cascading style sheet.
+JS stands Javascript.
+
+Why use?
+
+HTML : used for creating structure of website.
+CSS  : used for designing and beautify your website.
+Javascript : used for adding behavior in website.
+
+How we can create structure of website using HTML?
+	There are multiple tags available in HTML. That used for creating webpage structure.
+
+extention:
+	We must write our html code in .html file.
+	Note : Always our main file will be index.html
+
+Tags : 
+	- there is one opening tag and one closing tag for traditional tag.
+	- Self closing tag
+Syntax : 
+	Traditional tag
+			<h1>
+			--------------------------
+			--------------------------
+			</h1>
+	Self closing tag
+			<br />
+
+Properties:
+
+	- Every tag contains multiple attrubutes.
+	- Every attribute can contains value or not
+		Attribute that contains value
+			i.e <img src="path"> </img>
+		Attribute that does'nt contains value
+			i.e <video src="path" controls> <video>
+
+What's the use of Properties?
+	Because these attributes contains extra information about tag
+
+
+<!-- near to humans (High level code)-->
+	- Below code is written in high level language
+
+<!DOCTYPE html>
+<html lang="urdu">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+</html>
+
+<!-- near to browser or computer -->
+	- below code is written in machine languge
+
+01010010101011110101001010101111110001	(Machine code) -> low level code
+
+
+below code is written in assembly language
+add = 11000101	=> these code often called Nemonics
+
+
+
+
+
+
+
+
