@@ -1,0 +1,59 @@
+/* Types of color :  */
+/* 1- name */
+/* 2- rgb */
+/* 3- hsl */
+/* 3- hexdecimal */
+
+/* Let's discuss in detail */
+
+/* 1- name */
+
+h1,
+p {
+  border: 5px cornflowerblue solid;
+}
+
+div {
+  border: 2px blue solid;
+  text-align: center;
+}
+
+.welcomeSection {
+  /*  #section3 is called id selector*/
+  background-color: violet;
+  color: green;
+  padding: 1px 10px;
+}
+
+/* 2- rgb */
+#section4 {
+  /*  #section3 is called id selector*/
+  background-color: violet;
+  color: rgba(220, 204, 44, 1);
+  padding: 1px 10px;
+}
+
+/* 3- hsl */
+#section4 {
+  /*  #section3 is called id selector*/
+  background-color: violet;
+  color: hsl(218, 60%, 57%);
+  padding: 1px 10px;
+}
+/* 4- hexadecimal */
+#section3 {
+  /*  #section3 is called id selector*/
+  padding: 1px 10px;
+  color: white;
+  /*
+  background-color: violet;
+  background-image: url("./images/img_lights.jpg");
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-attachment: fixed; */
+  background: violet url("./images/img_lights.jpg") no-repeat fixed top left;
+  background-size: cover;
+}
+
+/* simple counting : 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15*/
+/* simple counting : 0 1 2 3 4 5 6 7 8 9 a   b  c  d  e f */
