@@ -1,0 +1,51 @@
+/* h1 {
+  text-align: center;
+  border: 20px green solid;
+  outline: 10px yellow solid;
+  padding: 20px;
+  margin: 40px;
+}
+h2 {
+  text-align: center;
+  border: 20px green solid;
+  outline: 10px red solid;
+  padding: 20px;
+  margin: 20px;
+} */
+
+/* Padding is a space b/w border and content of HTML element */
+/* margin is a space b/w borders of two HTML elements */
+/* outline is used to draw line outside the border of HTML element
+   Note: 
+        line drawn outside the border does'nt take the space itself.
+*/
+
+/* h1 {
+  border-top-color: aqua;
+  border-left-color: green;
+  border-right-color: green;
+  border-bottom-color: yellow;
+  border-style: solid ridge dotted dashed;
+  border-width: 20px 30px 3px;
+  border-radius: 50px;
+} */
+
+/* Shorthand property of border */
+/* h1 {
+  border: aqua 20px solid;
+}
+h2 {
+  border: aqua 20px solid;
+  padding-top: 40px;
+  padding-right: 30px;
+  padding-bottom: 20px;
+  padding-left: 5px;
+  margin: 40px 100px 150px 70px;
+  outline: 50px red dotted;
+} */
+
+p {
+  min-height: 50px;
+  max-height: 50px;
+  border: green 5px dotted;
+}
