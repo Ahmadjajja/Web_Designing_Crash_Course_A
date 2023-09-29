@@ -1,6 +1,6 @@
 ﻿# Welcome to the Web Designing class repository!
 
-This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples.
+This repository has been created to provide you with practical examples of the concepts covered in each class. Our goal is to help you better understand the theoretical concepts by providing you with real-world scenarios and code samples. <br />
 ![Alt Text](https://drive.google.com/uc?export=view&id=1mk74FAuwqGLdw4B3OkR-gGIgdEcZwBY-)<br />
 
 ## Why Use This Repository?
